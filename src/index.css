@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Brolink';
+    src: url('../src/assets/brolink/Brolink/ DEMO.otf') format('truetype'); /* Use the correct path to the font */
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    scroll-behavior: smooth;
+    
+ 
+}
