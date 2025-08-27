@@ -22,7 +22,7 @@ const Roadmap = () => {
     },
   ];
   return (
-    <div className="space-y-6 relative">
+    <div className="space-y-6 relative" id="Roadmap">
         <div className="absolute bg-[#8749B4] w-72 h-96 right-10 rounded-full blur-3xl bg-opacity-10 top-0 "></div>
         <div className="absolute bg-[#8749B4] w-72 h-72 left-0  rounded-full blur-3xl bg-opacity-10 top-0 "></div>
 
