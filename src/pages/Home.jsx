@@ -9,7 +9,7 @@ import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
-    <div className="bg-black text-white font-brofont" id="home">
+    <div className="bg-black text-white font-brofont" id="Home">
       <Navbar />
       <div className=" grid grid-cols-1  md:flex justify-around  gap-6 md:p-20 p-8 pb-10  text-white relative  ">
         <img
